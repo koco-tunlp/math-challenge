@@ -1,0 +1,8 @@
+services: 
+    chatsume:
+        build: .
+        container_name: "chsme"
+        ports: 
+            - "8000:8080"
+        volumes:
+            - ./app/:/app
