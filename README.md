@@ -33,12 +33,14 @@ GCP 개발환경 구성 및 모델 서빙 -> 깃헙링크
   
 [Measuring Mathematical Problem Solving With the MATH Dataset](https://arxiv.org/pdf/2103.03874.pdf)
 
+## Message from Authors  
+![pic1](https://user-images.githubusercontent.com/53106649/171995972-81c4962e-08b2-4290-95ea-62fbf9c15c36.png)  
 
-(이 아래로는 작성자 아이디 또는 이름으로 남길까 합니다, 메세지 남기는 것도 재밌을 듯)
-**데이터 EDA** - 
-**데이터 정제** -  
-**모델링** -  
-**모델 예측 결과 및 후처리** -  
-**GCP 개발환경 구성 및 모델 서빙** -  
-
-
+_Gu_ : 여러 레퍼런스 조사와, 모델링을 거치면서 데이터의 중요성을 다시 한번 깨닫는 시간이었습니다. 그래도 여러 모델링과 레퍼런스 조사를 통해 지식의 풀을 좀 더 넓힐 수 있었습니다.  
+**CodeT5**의 **Pretrain** 방법은 흥미롭습니다. 기존의 T5 Pretrain 방식에 Identifier를 더한 것, 그리고 NLM - PLM 양쪽으로 총 4가지의 pretrain 방법을 사용했는데 따라해보지 못해 아쉽습니다.  
+데이터 수는 적기 때문에 identifier tagging만 끝낸다면 해볼만 하리라 생각합니다.  
+**CodeBERT** 사용하진 못했지만 코드 관련 레퍼런스로 첨부했습니다.  
+**KoEPT** 외국의 레퍼런스들이 논문과 함께 코드를 제공하기 때문에 사용하기 편리한데 반해, 논문이 읽기는 편리했으나 코드 예제가 없어 구현할 수 없어 아쉬웠습니다.  
+**Training Verifier** 우리 이전의 팀도 시도했던 것으로 봤는데, 논문의 내용에 데이터가 작을 때는 큰 의미를 볼 수 없다고 나와있습니다. 따라서 의미있는 양의 데이터 증강 후 시도해야 할 내용으로 보입니다.  
+**Semantically-Aligned Equation Generation** 사용하지 못했지만 관련 문헌으로 남깁니다.  
+**Measuring Mathematical Problem Solving** GPT를 활용해 수학문제를 푸는 논문 입니다. 이 논문을 기점으로 GPT 사용을 시작했습니다.
