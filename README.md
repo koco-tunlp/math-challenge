@@ -13,13 +13,28 @@
 데이터 EDA -> 깃헙링크  
 데이터 정제내용 -> 깃헙링크  
 모델링 Base Code :  
-1. Tensorflow 모델  깃헙링크, 깃헙링크  
-2. Pytorch 모델   깃헙링크, 깃헙링크  
-  
+1. [tensorflow, SKT-kogpt-trinity 모델](https://github.com/koco-tunlp/math-challenge/tree/main/skt-kogpt-trinity-basecode)  
+2. [tensorflow, Roberta-Large For Class labeling](https://github.com/koco-tunlp/math-challenge/tree/main/roberta-large-for-classlabeling)
+3. Pytorch 모델   깃헙링크, 깃헙링크  
 모델 예측 결과 및 후처리 -> 깃헙링크  
-GCP 개발환경 구성 및 모델 서빙 -> 깃헙링크
-    
-(이 아래로는 작성자 아이디 또는 이름으로 남길까 합니다)  
+GCP 개발환경 구성 및 모델 서빙 -> 깃헙링크  
+
+
+## Reference  
+[CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation](https://arxiv.org/pdf/2109.00859.pdf)  
+  
+[CodeBERT: A Pre-Trained Model for Programming and Natural Languages](https://arxiv.org/pdf/2002.08155.pdf)  
+
+[KoEPT: Transformer 기반 생성 모델을 사용한 한국어 수학 문장제 문제 자동 풀이](http://koreascience.or.kr/article/CFKO202125036187306.pdf)  
+  
+[Training Verifiers to Solve Math Word Problems](https://arxiv.org/pdf/2110.14168.pdf)  
+  
+[Semantically-Aligned Equation Generation for Solving and Reasoning Math Word Problems](https://aclanthology.org/N19-1272.pdf)  
+  
+[Measuring Mathematical Problem Solving With the MATH Dataset](https://arxiv.org/pdf/2103.03874.pdf)
+
+
+(이 아래로는 작성자 아이디 또는 이름으로 남길까 합니다, 메세지 남기는 것도 재밌을 듯)
 **데이터 EDA** - 
 **데이터 정제** -  
 **모델링** -  
