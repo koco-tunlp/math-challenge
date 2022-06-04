@@ -34,7 +34,7 @@ GCP 개발환경 구성 및 모델 서빙 -> 깃헙링크
 [Measuring Mathematical Problem Solving With the MATH Dataset](https://arxiv.org/pdf/2103.03874.pdf)
 
 ## Message from Authors  
-![pic1](https://user-images.githubusercontent.com/53106649/171995972-81c4962e-08b2-4290-95ea-62fbf9c15c36.png)  
+![pic1](https://user-images.githubusercontent.com/53106649/171995972-81c4962e-08b2-4290-95ea-62fbf9c15c36.png){: width="60" height="60"}  
 
 _Gu_ : 여러 레퍼런스 조사와, 모델링을 거치면서 데이터의 중요성을 다시 한번 깨닫는 시간이었습니다. 그래도 여러 모델링과 레퍼런스 조사를 통해 지식의 풀을 좀 더 넓힐 수 있었습니다.  
 **CodeT5**의 **Pretrain** 방법은 흥미롭습니다. 기존의 T5 Pretrain 방식에 Identifier를 더한 것, 그리고 NLM - PLM 양쪽으로 총 4가지의 pretrain 방법을 사용했는데 따라해보지 못해 아쉽습니다.  
