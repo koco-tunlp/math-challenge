@@ -6,15 +6,15 @@
 그러나 이 도구들을 활용하게 된다면 더 다양한 방법을 시도해볼 수 있을겁니다.  
 저희가 안내할 내용은 다음과 같습니다.  
 
-## 목차  
+# About What we did
 
 (본인의 폴더에 맞게 링크 달아주시면 됩니다)
 
-### 데이터 관련
+## Data
 - [데이터 출처](https://github.com/tunib-ai/KMWP)
 - [데이터 정제 및 EDA](https://github.com/koco-tunlp/math-challenge/tree/main/Data_Preprocessing) 
 
-### Model Base Code
+## Model 
 
 1. [Base-transformer model](https://github.com/koco-tunlp/math-challenge/tree/main/transformer-basecode)
 
@@ -30,9 +30,9 @@
 
 
 
-모델 예측 결과 및 후처리 -> 깃헙링크  
+## Results & Postprocessing -> 깃헙링크  
 
-6. [모델 서빙](./model-serving/)
+1. [모델 서빙](./model-serving/)
 
 ## Performance
 ...
