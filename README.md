@@ -1,4 +1,4 @@
-# Tutorials or KMWP(Korean Math Words Problem)  
+# Tutorials for KMWP(Korean Math Words Problem)  
 안녕하세요 저희는 [Aiffel](https://aiffel.io/)에서 [KMWP](https://github.com/tunib-ai/KMWP) 학습에 도전했던 팀입니다.  
 이 저장소는 다음 KMWP 문제에 도전할 팀을 위한 가이드를 목적으로 만들었습니다  
 데이터에 대한 전처리부터, 학습에 사용할 레퍼런스 조사, 대형 모델을 사용하기 위해 Google Cloud Platform  설정 등, 자연어 처리 내용 외에도 우리가 알고 사용해야할 기본적인 내용들이 너무 많기에 다음 팀의 시간은 아끼고, 여기서 한발짝 더 나아갈 수 있도록 기록을 남기려고 합니다.  
