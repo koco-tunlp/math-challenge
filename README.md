@@ -10,9 +10,7 @@
 
 (본인의 폴더에 맞게 링크 달아주시면 됩니다)
 
-데이터 EDA -> (https://github.com/koco-tunlp/math-challenge/blob/main/Data_Preprocessing/Data_EDA.ipynb) 
-
-데이터 정제내용 -> 깃헙링크  
+### 데이터 정제 및 EDA (https://github.com/koco-tunlp/math-challenge/tree/main/Data_Preprocessing) 
 
 ### Model Base Code
 
