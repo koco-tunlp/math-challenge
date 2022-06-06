@@ -5,7 +5,9 @@
 - 문제 유형별 특성을 파악하기 위해 문장 길이, 형태소별 워드 클라우드로 시각화 해보았습니다.<br>
 < 예시 >
 - 문장 길이 시각화
+
   ![image](https://user-images.githubusercontent.com/75985245/172218967-3b30a01e-8fa1-4d16-80cc-ce08797f8d0c.png)
 - 워드클라우드
+
   ![image](https://user-images.githubusercontent.com/75985245/172219091-110ad883-6e72-4cd2-9ca1-58c2ec06eaa8.png)
 
