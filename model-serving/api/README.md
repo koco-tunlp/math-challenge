@@ -1,6 +1,8 @@
 # Model Serving - API
 
-API 서버는 [FastAPI](https://fastapi.tiangolo.com/) 프레임워크를 기반으로 작성되었습니다. FastAPI는 몇 줄의 코드로도 쉽게 모델 서빙 API를 구현할 수 있었습니다. 또한 도커를 사용하여 여러 환경에서 쉽게 앱을 실행할 수 있도록 구성했습니다.
+API 서버는 [FastAPI](https://fastapi.tiangolo.com/) 프레임워크를 기반으로 작성되었습니다. FastAPI는 몇 줄의 코드로도 쉽게 모델 서빙 API를 구현할 수 있었습니다.
+
+또한 도커를 사용하여 여러 환경에서 쉽게 앱을 실행할 수 있도록 구성했습니다.
 
 ## 프로젝트 구조
 

@@ -16,7 +16,9 @@ http://math-challenge.wetov.io
 
 ![architecture](./assets/architecture.png)
 
-API 서버는 아이펠로부터 제공받은 GCP 가상머신을 사용하였으며, 웹 컨텐츠의 경우는 비용이 저렴하고 작업자가 익숙한 [AWS S3](https://aws.amazon.com/s3/)를 사용했습니다. 기호에 따라서 하나의 서버에서 api와 web 컨텐츠를 모두 구현할 수도 있습니다.
+API 서버는 아이펠로부터 제공받은 GCP 가상머신을 사용하였으며, 웹 컨텐츠의 경우는 비용이 저렴하고 작업자가 익숙한 [AWS S3](https://aws.amazon.com/s3/)를 사용했습니다.
+
+기호에 따라서 하나의 서버에서 api와 web 컨텐츠를 모두 구현할 수도 있습니다.
 
 ## 추후 진행해 볼 만한 것
 
