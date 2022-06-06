@@ -48,4 +48,5 @@
 
 ## Authors  
 <img src=https://user-images.githubusercontent.com/53106649/171995972-81c4962e-08b2-4290-95ea-62fbf9c15c36.png  width="100" height="100" />
+<img src=https://user-images.githubusercontent.com/75985245/172203397-cda63654-3c58-4d82-a60c-1a547d7d4e2b.jpg width="100" height="100" />
 
