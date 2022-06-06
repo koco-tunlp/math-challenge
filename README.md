@@ -24,7 +24,8 @@
 4. [pytorch, SKT-kogpt2-base-v2 model](https://github.com/koco-tunlp/math-challenge/tree/main/skt-kogpt2-base-v2-basecode)  
 
 모델 예측 결과 및 후처리 -> 깃헙링크  
-GCP 개발환경 구성 및 모델 서빙 -> 깃헙링크  
+
+6. [모델 서빙](./model-serving/)
 
 ## Performance
 ...
