@@ -1,4 +1,4 @@
-# SKT-kogpt-trinity Basecode Part에 오신것을 환영합니다  
+# SKT-kogpt-trinity Basecode  
 
 Base Code는 Tunib의 Korean Math Word Problems 데이터셋으로 SKT-kogpt-trinity 모델을 학습하기 위한
 코드로 만들어 졌습니다.
