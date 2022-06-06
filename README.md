@@ -10,7 +10,8 @@
 
 (본인의 폴더에 맞게 링크 달아주시면 됩니다)
 
-### 데이터 정제 및 EDA (https://github.com/koco-tunlp/math-challenge/tree/main/Data_Preprocessing) 
+### 데이터 정제 및 EDA 
+- (https://github.com/koco-tunlp/math-challenge/tree/main/Data_Preprocessing) 
 
 ### Model Base Code
 
@@ -21,6 +22,12 @@
 3. [tensorflow, Roberta-Large For Class labeling](https://github.com/koco-tunlp/math-challenge/tree/main/roberta-large-for-classlabeling)
 
 4. [pytorch, SKT-kogpt2-base-v2 model](https://github.com/koco-tunlp/math-challenge/tree/main/skt-kogpt2-base-v2-basecode)  
+
+5. [pytorch, koelectra-base-v3-discriminator(https://github.com/koco-tunlp/math-challenge/blob/main/koelectra-for-classlabeling/KoELECTRA_classification_basecode(PyTorch).ipynb)
+
+6. [tensorflow, koelectra-base-v3-discriminator(https://github.com/koco-tunlp/math-challenge/blob/main/koelectra-for-classlabeling/KoELECTRA_classification_basecode(Tensorflow).ipynb)
+
+
 
 모델 예측 결과 및 후처리 -> 깃헙링크  
 
