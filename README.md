@@ -13,9 +13,9 @@
 데이터 EDA -> 깃헙링크  
 데이터 정제내용 -> 깃헙링크  
 모델링 Base Code :  
-1. [tensorflow, SKT-kogpt-trinity 모델](https://github.com/koco-tunlp/math-challenge/tree/main/skt-kogpt-trinity-basecode)  
+1. [tensorflow, SKT-kogpt-trinity model](https://github.com/koco-tunlp/math-challenge/tree/main/skt-kogpt-trinity-basecode)  
 2. [tensorflow, Roberta-Large For Class labeling](https://github.com/koco-tunlp/math-challenge/tree/main/roberta-large-for-classlabeling)
-3. Pytorch 모델   깃헙링크, 깃헙링크  
+3. [pytorch, SKT-kogpt2-base-v2 model](https://github.com/koco-tunlp/math-challenge/tree/main/skt-kogpt2-base-v2-basecode)  
 모델 예측 결과 및 후처리 -> 깃헙링크  
 GCP 개발환경 구성 및 모델 서빙 -> 깃헙링크  
 
