@@ -10,8 +10,9 @@
 
 (본인의 폴더에 맞게 링크 달아주시면 됩니다)
 
-### 데이터 정제 및 EDA 
-- (https://github.com/koco-tunlp/math-challenge/tree/main/Data_Preprocessing) 
+### 데이터 관련
+- [데이터 출처](https://github.com/tunib-ai/KMWP)
+- [데이터 정제 및 EDA](https://github.com/koco-tunlp/math-challenge/tree/main/Data_Preprocessing) 
 
 ### Model Base Code
 
@@ -23,9 +24,9 @@
 
 4. [pytorch, SKT-kogpt2-base-v2 model](https://github.com/koco-tunlp/math-challenge/tree/main/skt-kogpt2-base-v2-basecode)  
 
-5. [pytorch, koelectra-base-v3-discriminator(https://github.com/koco-tunlp/math-challenge/blob/main/koelectra-for-classlabeling/KoELECTRA_classification_basecode(PyTorch).ipynb)
+5. [pytorch, koelectra-base-v3-discriminator](https://github.com/koco-tunlp/math-challenge/blob/main/koelectra-for-classlabeling/KoELECTRA_classification_basecode(PyTorch).ipynb)
 
-6. [tensorflow, koelectra-base-v3-discriminator(https://github.com/koco-tunlp/math-challenge/blob/main/koelectra-for-classlabeling/KoELECTRA_classification_basecode(Tensorflow).ipynb)
+6. [tensorflow, koelectra-base-v3-discriminator](https://github.com/koco-tunlp/math-challenge/blob/main/koelectra-for-classlabeling/KoELECTRA_classification_basecode(Tensorflow).ipynb)
 
 
 
