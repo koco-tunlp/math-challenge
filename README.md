@@ -35,7 +35,12 @@
 1. [모델 서빙](./model-serving/)
 
 ## Performance
-...
+||사용 모델|accuracy|비고|
+|--:|--:|--:|--:|
+|1|KoGPT2|0.16|base-model|
+|2|SKT-GPT-tirinty|0.29|large-model|
+|3|Encoder-Decoder|-|Roberta|
+|4|Encoder-Decoder|-|KoELECTRA|
 
 
 ## Reference  
