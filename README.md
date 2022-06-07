@@ -37,6 +37,7 @@
 ## Performance
 ||사용 모델|accuracy|비고|
 |--:|--:|--:|--:|
+|0|Transformer|0.04|base|
 |1|KoGPT2|0.16|base-model|
 |2|SKT-GPT-tirinty|0.29|large-model|
 |3|Encoder-Decoder|-|Roberta|
