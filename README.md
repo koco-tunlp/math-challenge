@@ -40,8 +40,8 @@
 |0|Transformer|0.04|base|
 |1|KoGPT2|0.16|base-model|
 |2|SKT-GPT-tirinty|0.29|large-model|
-|3|Encoder-Decoder|-|Roberta|
-|4|Encoder-Decoder|-|KoELECTRA|
+|3|Encoder-Decoder(Roberta-KoGPT2)|-|구현x|
+|4|Encoder-Decoder(KoELECTRA-KoGPT2|-|구현x|
 
 
 ## Reference  
