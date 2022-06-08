@@ -1,3 +1,13 @@
+"""
+base code for Data_cleansing.ipynb
+
+What it does:
+1. Train Data의 문제, 유형, 코드, 정답을 출력
+2. 코드 실행 결과 (데이터셋에 저장된 파이썬 코드의 실제 실행 결과)도 함께 출력
+3. 문제 번호(0번부터 시작)을 입력하면 해당 문제, 입력이 없거나 숫자가 아닌 입력시 직전 문제의 다음 문제 출력
+4. 음수 음력시 프로그램 종료
+"""
+
 from pandas import read_csv
 
 try:
