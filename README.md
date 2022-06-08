@@ -62,5 +62,4 @@
 
 |김일구|강민영|서승현|황시연|유병관|임동민|
 |:---------------:|:---------------:|:-------------:|:-------------:|:-------------:|:-------------:| 
-|<img src=https://user-images.githubusercontent.com/53106649/171995972-81c4962e-08b2-4290-95ea-62fbf9c15c36.png  width="100"/>|<img src=https://user-images.githubusercontent.com/75985245/172203397-cda63654-3c58-4d82-a60c-1a547d7d4e2b.jpg width="100">|<img src=https://user-images.githubusercontent.com/72240999/172273846-eb9fd8cc-c274-49b7-98f8-3cff2f56a785.png  width="100"/>|<img src=https://user-images.githubusercontent.com/83632258/172519549-5ee54aa4-c680-47ad-95b5-403234e86770.png width='100'/>||
-
+|<img src=https://user-images.githubusercontent.com/53106649/171995972-81c4962e-08b2-4290-95ea-62fbf9c15c36.png  width="100"/>|<img src=https://user-images.githubusercontent.com/75985245/172203397-cda63654-3c58-4d82-a60c-1a547d7d4e2b.jpg width="100">|<img src=https://user-images.githubusercontent.com/72240999/172273846-eb9fd8cc-c274-49b7-98f8-3cff2f56a785.png  width="100"/>|<img src=https://user-images.githubusercontent.com/83632258/172519549-5ee54aa4-c680-47ad-95b5-403234e86770.png width='100'/>|<<img src=https://user-images.githubusercontent.com/97048878/172527435-ff79bc23-948e-414b-85bb-c4d0a5ba2c02.png width='100'/>|
